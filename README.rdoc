@@ -22,3 +22,13 @@
   
   % gem install actionpack
 
+== Download and installation
+
+The latest version of Action Pack can be installed with RubyGems:
+
+  % gem install actionpack
+
+Source code can be downloaded as part of the Rails project on GitHub
+
+* https://github.com/rails/rails/tree/master/actionpack
+
