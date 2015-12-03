@@ -6,3 +6,15 @@
   
   $ rvm install 2.2.1
 
+* Install Ruby Gems
+  
+  $ bundle install
+
+* Create Database
+  
+  $ rake db:create
+
+* Run Migration
+  
+  $ rake db:migrate
+
