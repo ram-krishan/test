@@ -1,0 +1,7 @@
+## Welcome to Spi
+
+## Getting Started
+
+1. Install Ruby at the command prompt if you haven't yet:
+  
+  $ rvm install 2.2.1  
