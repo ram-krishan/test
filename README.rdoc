@@ -4,31 +4,26 @@
 
 * Install Ruby at the command prompt if you haven't yet:
   
-  $ rvm install 2.2.1
+    $ rvm install 2.2.1
 
 * Install Ruby Gems
   
-  $ bundle install
+    $ bundle install
 
 * Create Database
   
-  $ rake db:create
+    $ rake db:create
 
 * Run Migration
   
-  $ rake db:migrate
+    $ rake db:migrate
 
-* Test
-  
-    % gem install actionpack
+* Create Admin User
+    
+    $ rake db:seed
 
-== Download and installation
-
-* The latest version of Action Pack can be installed with RubyGems:
-
-  % gem install actionpack
-
-Source code can be downloaded as part of the Rails project on GitHub
-
-* https://github.com/rails/rails/tree/master/actionpack
+* Build the Sample Data
+    
+    $ rake sample_data:build_all
+    
 
