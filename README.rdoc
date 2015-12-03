@@ -20,11 +20,11 @@
 
 * Test
   
-  % gem install actionpack
+    % gem install actionpack
 
 == Download and installation
 
-The latest version of Action Pack can be installed with RubyGems:
+* The latest version of Action Pack can be installed with RubyGems:
 
   % gem install actionpack
 
